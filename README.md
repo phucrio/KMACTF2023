@@ -1,4 +1,4 @@
-{%hackmd @abc90/temp3 %}
+
 # KMACTF 2023
 # Simple encode
 chall.py
